@@ -188,7 +188,7 @@ body {
 #onespan {
   width: 70px;
   height: 35px;
-  background-image: url("./images/PARA1.jpg");
+  background-image: url("PARA1.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -196,7 +196,7 @@ body {
 #twospan {
   width: 100px;
   height: 45px;
-  background-image: url("./images/PARA2.jpg");
+  background-image: url("PARA2.jpg");
   background-size: cover;
   background-position: 0% 50%;
 }
@@ -204,7 +204,7 @@ body {
 #threespan {
   width: 70px;
   height: 35px;
-  background-image: url("./images/PARA3.jpg");
+  background-image: url("PARA3.jpg");
   background-size: cover;
   background-position: 0 60%;
 }
